@@ -15,8 +15,8 @@ To re-create this project on your device, do the following steps:
 
 # Data
 My project utilizes multiple datasets, in which I've designated one as the 'main' and the other two as 'helpers'. The main dataset contains the citations themselves, and the helpers provide additional information about official neighborhood geographic boundaries,  ... The sources where I found each dataset is **hyperlinked**.
-## Datasets
-setup: Dataset name, underneath it put variables, details about variables, and purpose
+## Datasets tables
+setup: Dataset name, underneath it put variables, details about variables, size!!
 
 for this projecct, i used year = and N= . . .
 
