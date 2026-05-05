@@ -21,5 +21,5 @@ setup: Dataset name, underneath it put variables, details about variables, size!
 for this projecct, i used year = and N= . . .
 
 # Modeling Method 
-## NB
+## Negative Binomial Regression
 ## Results
