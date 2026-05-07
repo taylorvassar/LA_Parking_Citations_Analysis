@@ -20,14 +20,14 @@ To re-create this project on your device, do the following steps:
 
 # Data
 My project utilizes multiple datasets, in which I've designated one as the 'main' and the others as 'helpers'. The main dataset contains the citations themselves, and the helpers provide additional information about neighborhood geographic boundaries that helped me with creating the neighborhood variable and visualize the citation count. The sources where I found each dataset is **hyperlinked**.
-## Datasets tables
+## Datasets 
 
 | Dataset Name | Description | Size | Format| Personal Use|
 |----------|----------|----------|----------| ----------|
 | [Starter Los Angeles Parking Citations](https://www.kaggle.com/datasets/cityofLA/los-angeles-parking-citations?select=parking-citations.csv) | Parking citations recorded in Los Angeles from pre-2015 to the present day, updated daily but with entry errors. | 2.04 GB | CSV | Main
 | Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 | Row 2 Col 4 | Helper
-| [LA Street Type](https://geohub.lacity.org/datasets/la-times-neighborhood-boundaries/explore?location=34.020728%2C-118.410084%2C9) | Categorizes streets into certain groups as a part of the city'a general plan for land use. | 13.4 MB | CSV | Helper |
-| LA Times Neighborhood Boundaries | Provides latitude and longitude coordinates for official neighborhood boundaries. | 968 KB | CSV (names) & GeoJSON (geography) | Helper
+| LA Street Type | Categorizes streets into certain groups as a part of the city'a general plan for land use. | 13.4 MB | CSV | Helper |
+| [LA Times Neighborhood Boundaries](https://geohub.lacity.org/datasets/la-times-neighborhood-boundaries/explore?location=34.020728%2C-118.410084%2C9) | Provides latitude and longitude coordinates for official neighborhood boundaries. | 968 KB | CSV (names) & GeoJSON (geography) | Helper
 for this projecct, i used year = and N= . . .
 
 # Modeling Method 
