@@ -8,7 +8,7 @@ Here's a map of the project:
 **code** -> Scripts + notebook used to clean, visualize, and model the data. \
 **data** -> Raw datasets. \
 **visualizations** -> Static and interactive (?) visuals. \
-**requirements.txt** -> Dependencies needed to reproduce project. \
+**requirements.txt** -> Dependencies needed to reproduce project. 
 
 # Reproducibility
 
