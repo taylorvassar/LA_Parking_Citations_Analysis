@@ -5,10 +5,10 @@ This project examines the distribution of parking citations given throughout Los
 
 Here's a map of the project:
 
-\textbf{code} -> Scripts + notebook used to clean, visualize, and model the data.
-\textbf{data} -> Raw datasets.
-\textbf{visualizations} -> Static and interactive (?) visuals.
-\textbf{requirements.txt} -> Dependencies needed to reproduce project.
+**code** -> Scripts + notebook used to clean, visualize, and model the data. \
+**data** -> Raw datasets. \
+**visualizations** -> Static and interactive (?) visuals. \
+**requirements.txt** -> Dependencies needed to reproduce project. \
 
 # Reproducibility
 
@@ -21,8 +21,13 @@ To re-create this project on your device, do the following steps:
 # Data
 My project utilizes multiple datasets, in which I've designated one as the 'main' and the other two as 'helpers'. The main dataset contains the citations themselves, and the helpers provide additional information about official neighborhood geographic boundaries,  ... The sources where I found each dataset is **hyperlinked**.
 ## Datasets tables
-setup: Dataset name, descriptions, size, source!!
 
+| Dataset Name | Description | Size | Format|
+|----------|----------|----------|----------|
+| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 | Row 1 Col 4 |
+| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 | Row 2 Col 4 |
+| Row 3 Col 1 | Row 3 Col 2 | Row 3 Col 3 | Row 3 Col 4 |
+| LA Times Neighborhood Boundaries | Provides latitude and longitude coordinates for official neighborhood boundaries. | Row 4 Col 3 | GeoJSON |
 for this projecct, i used year = and N= . . .
 
 # Modeling Method 
