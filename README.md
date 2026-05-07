@@ -22,12 +22,12 @@ To re-create this project on your device, do the following steps:
 My project utilizes multiple datasets, in which I've designated one as the 'main' and the other two as 'helpers'. The main dataset contains the citations themselves, and the helpers provide additional information about official neighborhood geographic boundaries,  ... The sources where I found each dataset is **hyperlinked**.
 ## Datasets tables
 
-| Dataset Name | Description | Size | Format|
+| Dataset Name | Description | Size | Format| Personal Use
 |----------|----------|----------|----------|
-| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 | Row 1 Col 4 |
-| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 | Row 2 Col 4 |
-| Row 3 Col 1 | Row 3 Col 2 | Row 3 Col 3 | Row 3 Col 4 |
-| LA Times Neighborhood Boundaries | Provides latitude and longitude coordinates for official neighborhood boundaries. | Row 4 Col 3 | GeoJSON |
+| Row 1 Col 1 | Row 1 Col 2 | Row 1 Col 3 | Row 1 Col 4 | Main
+| Row 2 Col 1 | Row 2 Col 2 | Row 2 Col 3 | Row 2 Col 4 | Helper
+| LA Street Type | Categorizes streets into certain groups as a part of the city'a general plan for land use. | 13.4 MB | CSV | Helper |
+| LA Times Neighborhood Boundaries | Provides latitude and longitude coordinates for official neighborhood boundaries. | 968 KB | CSV (names) & GeoJSON (geography) | Helper
 for this projecct, i used year = and N= . . .
 
 # Modeling Method 
