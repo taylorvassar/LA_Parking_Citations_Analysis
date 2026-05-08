@@ -26,7 +26,7 @@ My project utilizes multiple datasets, in which I've designated one as the 'main
 |----------|----------|----------|----------| ----------|
 | [Starter Los Angeles Parking Citations](https://www.kaggle.com/datasets/cityofLA/los-angeles-parking-citations?select=parking-citations.csv) | Parking citations recorded in Los Angeles from pre-2015 to the present day, updated daily but with entry errors. | 2.04 GB | CSV | Main
 | [LA DOT Parking Meter Inventories](https://data.lacity.org/Transportation/LADOT-Metered-Parking-Inventory-Policies/s49e-q6j2/about_data) | Current inventory of all LA Parking meters, used to hepl create the amt_of_parking_meters variable. | 2.58 MB | CSV | Helper
-| LA Street Type | Categorizes streets into certain groups as a part of the city'a general plan for land use. | 13.4 MB | CSV | Helper |
+| [LA Street Type](https://geohub.lacity.org/datasets/efa5d05db5cd4fe8a8492a13ff1f4a15_17/about) | Categorizes streets into certain groups as a part of the city'a general plan for land use. | 13.4 MB | CSV | Helper |
 | [LA Times Neighborhood Boundaries](https://geohub.lacity.org/datasets/la-times-neighborhood-boundaries/explore?location=34.020728%2C-118.410084%2C9) | Provides latitude and longitude coordinates for official neighborhood boundaries. | 968 KB | CSV (names) & GeoJSON (geography) | Helper
 
 For my analysis, N = # observations from the year 2019 as the 'training' information to predict the outcome of citation counts in 2020. 
