@@ -26,8 +26,4 @@ My project utilizes multiple datasets, in which I've designated one as the 'main
 | [LA Street Type](https://geohub.lacity.org/datasets/efa5d05db5cd4fe8a8492a13ff1f4a15_17/about) | Categorizes streets into certain groups as a part of the city'a general plan for land use. | 13.4 MB | CSV | Helper |
 | [LA Times Neighborhood Boundaries](https://geohub.lacity.org/datasets/la-times-neighborhood-boundaries/explore?location=34.020728%2C-118.410084%2C9) | Provides latitude and longitude coordinates for official neighborhood boundaries. | 968 KB | CSV (names) & GeoJSON (geography) | Helper
 
-For my analysis, N = 10,000 observations from the year 2019 as the 'training' information to predict the outcome of citation counts in 2020. 
-
-# Modeling Method 
-## Negative Binomial Regression
-## Results
+For my analysis, N = 10,000 observations from the year 2019 as the 'training' information to predict the outcome of citation counts in 2020 using a negative binomial model.
