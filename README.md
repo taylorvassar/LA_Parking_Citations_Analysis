@@ -7,12 +7,12 @@ Here's a map of the project:
 
 **code** -> Scripts + notebook used to clean, visualize, and model the data. \
 **data** -> Raw datasets. \
-**visualizations** -> Static and interactive (?) visuals. \
+**visualizations** -> Static and interactive visuals. \
 **requirements.txt** -> Dependencies needed to reproduce project. 
 
 # Reproducibility
 
-Run git clone 
+Run **git clone** https://github.com/taylorvassar/LA_Parking_Citations_Analysis.git to have access to the materials.
   
 
 # Data
