@@ -5,6 +5,13 @@ numpy: 2.4.4
 matplotlib: 3.10.9
 geopandas: 1.1.3
 shapely: 2.1.2
+folium: 0.20.0
+plt
+re
+ast
+statsmodels.api 
+statsmodels.formula.api 
+%matplotlib inline
 
 To install a specific package version, run "python[VERSION] -m pip install [PACKAGE]==[PACKAGE VERSION]" in your terminal, 
 replacing the brackets with what you need.
