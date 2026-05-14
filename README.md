@@ -12,10 +12,7 @@ Here's a map of the project:
 
 # Reproducibility
 
-To re-create this project on your device, do the following steps:
-
-1. **Clone Repository**: Run git clone ...
-- something about requirements.txt
+Run git clone 
   
 
 # Data
